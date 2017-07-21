@@ -1,0 +1,2 @@
+# ExposicionSelectos
+SQLite con EF
